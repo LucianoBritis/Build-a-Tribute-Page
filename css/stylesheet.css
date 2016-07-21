@@ -1,0 +1,32 @@
+body {
+  margin-top: 60px;
+  background-color:#0A6775;
+}
+
+h1, h3 {
+  text-align: center;
+}
+
+h1 {
+  padding-bottom:10px;
+  font-size:80px;
+  letter-spacing:10px;
+}
+
+.jumbotron p {
+  font-size:18px;
+  padding-top:10px;
+  text-align:justify;
+  padding: 0 15px;
+}
+
+.caption {
+   font-size:17px;
+   font-family: arial helvetica;
+ }
+
+footer a:hover {
+color:  #fefefe;
+text-decoration:none; 
+
+}
